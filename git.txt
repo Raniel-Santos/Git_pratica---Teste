@@ -1,2 +1,3 @@
 primeira alteração no arquivo de teste
-segunda alteracao
+segunda alteracao 
+terceira alteracao
