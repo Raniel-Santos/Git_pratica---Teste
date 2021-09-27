@@ -10,8 +10,12 @@ segunda alteracao
 terceira alteracao
 >>>>>>> a30510dce5d370ce6f1994a54683c872607a79b4
 
+<<<<<<< HEAD
 
 4 exemplo
 
 
 merge!!!!! agora vai !!!!
+=======
+quarta alteração
+>>>>>>> 57078d0ab8102be9cd308cd38d647baf139fb240
