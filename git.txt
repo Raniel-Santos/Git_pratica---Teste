@@ -1,6 +1,11 @@
 primeira alteração no arquivo de teste
+<<<<<<< HEAD
 segunda alteracao
 
 
 3 exemplo :
 
+=======
+segunda alteracao 
+terceira alteracao
+>>>>>>> a30510dce5d370ce6f1994a54683c872607a79b4
